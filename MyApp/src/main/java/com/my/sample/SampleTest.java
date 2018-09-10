@@ -7,7 +7,7 @@ public class SampleTest {
 		System.out.println("cal");
 	}
 	public static int cal(int n,int m){
-		//
+int i=0;
 		int calculation=m*n;
 		return calculation;
 	}
